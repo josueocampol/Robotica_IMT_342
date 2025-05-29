@@ -1,0 +1,75 @@
+[0.000000] (-) TimerEvent: {}
+[0.000759] (mi_proyecto_de_ros2) JobQueued: {'identifier': 'mi_proyecto_de_ros2', 'dependencies': OrderedDict()}
+[0.000829] (mi_proyecto_de_ros2) JobStarted: {'identifier': 'mi_proyecto_de_ros2'}
+[0.110671] (-) TimerEvent: {}
+[0.249339] (-) TimerEvent: {}
+[0.370494] (-) TimerEvent: {}
+[0.562864] (-) TimerEvent: {}
+[0.664482] (-) TimerEvent: {}
+[0.778091] (-) TimerEvent: {}
+[0.930450] (-) TimerEvent: {}
+[1.074827] (-) TimerEvent: {}
+[1.178984] (-) TimerEvent: {}
+[1.279889] (-) TimerEvent: {}
+[1.381076] (-) TimerEvent: {}
+[1.491052] (-) TimerEvent: {}
+[1.597022] (-) TimerEvent: {}
+[1.729096] (-) TimerEvent: {}
+[1.859098] (-) TimerEvent: {}
+[1.967429] (-) TimerEvent: {}
+[2.069893] (-) TimerEvent: {}
+[2.171403] (-) TimerEvent: {}
+[2.275008] (-) TimerEvent: {}
+[2.376728] (-) TimerEvent: {}
+[2.478888] (-) TimerEvent: {}
+[2.579128] (-) TimerEvent: {}
+[2.636662] (mi_proyecto_de_ros2) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/mi_proyecto_de_ros2', 'build', '--build-base', '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build', 'install', '--record', '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/src/mi_proyecto_de_ros2', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'es_BO:es', 'USER': 'josue', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/josue', 'OLDPWD': '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/src/mi_proyecto_de_ros2/mi_proyecto_de_ros2', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'SYSTEMD_EXEC_PID': '66377', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'josue', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'josue', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/josue-VirtualBox:@/tmp/.ICE-unix/955,unix/josue-VirtualBox:/tmp/.ICE-unix/955', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/37975c01_1aa1_4364_bb07_1d18cf2b1c06', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'es_BO.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.SIVA62', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.321', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'SHELL': '/bin/bash', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[2.680590] (-) TimerEvent: {}
+[2.782152] (-) TimerEvent: {}
+[2.868171] (mi_proyecto_de_ros2) StdoutLine: {'line': b'running egg_info\n'}
+[2.869024] (mi_proyecto_de_ros2) StdoutLine: {'line': b'creating ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info\n'}
+[2.869296] (mi_proyecto_de_ros2) StdoutLine: {'line': b'writing ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/PKG-INFO\n'}
+[2.869573] (mi_proyecto_de_ros2) StdoutLine: {'line': b'writing dependency_links to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/dependency_links.txt\n'}
+[2.869830] (mi_proyecto_de_ros2) StdoutLine: {'line': b'writing entry points to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/entry_points.txt\n'}
+[2.870083] (mi_proyecto_de_ros2) StdoutLine: {'line': b'writing requirements to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/requires.txt\n'}
+[2.870183] (mi_proyecto_de_ros2) StdoutLine: {'line': b'writing top-level names to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/top_level.txt\n'}
+[2.870407] (mi_proyecto_de_ros2) StdoutLine: {'line': b"writing manifest file '../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/SOURCES.txt'\n"}
+[2.872083] (mi_proyecto_de_ros2) StdoutLine: {'line': b"reading manifest file '../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/SOURCES.txt'\n"}
+[2.873053] (mi_proyecto_de_ros2) StdoutLine: {'line': b"writing manifest file '../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/SOURCES.txt'\n"}
+[2.873249] (mi_proyecto_de_ros2) StdoutLine: {'line': b'running build\n'}
+[2.873378] (mi_proyecto_de_ros2) StdoutLine: {'line': b'running build_py\n'}
+[2.873470] (mi_proyecto_de_ros2) StdoutLine: {'line': b'creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build\n'}
+[2.873623] (mi_proyecto_de_ros2) StdoutLine: {'line': b'creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib\n'}
+[2.873723] (mi_proyecto_de_ros2) StdoutLine: {'line': b'creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2\n'}
+[2.873893] (mi_proyecto_de_ros2) StdoutLine: {'line': b'copying mi_proyecto_de_ros2/mi_primer_nodo.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2\n'}
+[2.874019] (mi_proyecto_de_ros2) StdoutLine: {'line': b'copying mi_proyecto_de_ros2/__init__.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2\n'}
+[2.874080] (mi_proyecto_de_ros2) StdoutLine: {'line': b'running install\n'}
+[2.874124] (mi_proyecto_de_ros2) StdoutLine: {'line': b'running install_lib\n'}
+[2.874598] (mi_proyecto_de_ros2) StdoutLine: {'line': b'creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2\n'}
+[2.874820] (mi_proyecto_de_ros2) StdoutLine: {'line': b'copying /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2/mi_primer_nodo.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2\n'}
+[2.874898] (mi_proyecto_de_ros2) StdoutLine: {'line': b'copying /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2/__init__.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2\n'}
+[2.875257] (mi_proyecto_de_ros2) StdoutLine: {'line': b'byte-compiling /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2/mi_primer_nodo.py to mi_primer_nodo.cpython-310.pyc\n'}
+[2.875552] (mi_proyecto_de_ros2) StdoutLine: {'line': b'byte-compiling /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2/__init__.py to __init__.cpython-310.pyc\n'}
+[2.875750] (mi_proyecto_de_ros2) StdoutLine: {'line': b'running install_data\n'}
+[2.875942] (mi_proyecto_de_ros2) StdoutLine: {'line': b'creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/ament_index\n'}
+[2.876041] (mi_proyecto_de_ros2) StdoutLine: {'line': b'creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/ament_index/resource_index\n'}
+[2.876133] (mi_proyecto_de_ros2) StdoutLine: {'line': b'creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/ament_index/resource_index/packages\n'}
+[2.876290] (mi_proyecto_de_ros2) StdoutLine: {'line': b'copying resource/mi_proyecto_de_ros2 -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/ament_index/resource_index/packages\n'}
+[2.876357] (mi_proyecto_de_ros2) StdoutLine: {'line': b'copying package.xml -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/mi_proyecto_de_ros2\n'}
+[2.876416] (mi_proyecto_de_ros2) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.878440] (mi_proyecto_de_ros2) StdoutLine: {'line': b'Copying ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info to /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2-0.0.0-py3.10.egg-info\n'}
+[2.879116] (mi_proyecto_de_ros2) StdoutLine: {'line': b'running install_scripts\n'}
+[2.883382] (-) TimerEvent: {}
+[2.900048] (mi_proyecto_de_ros2) StdoutLine: {'line': b'Installing mi_primer_nodo script to /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/mi_proyecto_de_ros2\n'}
+[2.900453] (mi_proyecto_de_ros2) StdoutLine: {'line': b"writing list of installed files to '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/install.log'\n"}
+[2.921715] (mi_proyecto_de_ros2) CommandEnded: {'returncode': 0}
+[2.986072] (-) TimerEvent: {}
+[3.090200] (-) TimerEvent: {}
+[3.191402] (-) TimerEvent: {}
+[3.296266] (-) TimerEvent: {}
+[3.398202] (-) TimerEvent: {}
+[3.499055] (-) TimerEvent: {}
+[3.604152] (-) TimerEvent: {}
+[3.707546] (-) TimerEvent: {}
+[3.775033] (mi_proyecto_de_ros2) JobEnded: {'identifier': 'mi_proyecto_de_ros2', 'rc': 0}
+[3.775369] (-) EventReactorShutdown: {}

@@ -1,0 +1,80 @@
+[0.016s] Invoking command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2:/home/josue/ros2_ws/install/test_python_pkg:/home/josue/ros2_ws/install/mqtt_ros2_bridge:/home/josue/ros2_ws/install/line_follower_pkg:/home/josue/ros2_ws/install/agv_teleop:/home/josue/ros2_ws/install/agv_description:/opt/ros/humble /usr/bin/cmake /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/src/basic_mobile_robot -DCMAKE_INSTALL_PREFIX=/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot
+[1.224s] -- The C compiler identification is GNU 11.4.0
+[1.411s] -- The CXX compiler identification is GNU 11.4.0
+[1.428s] -- Detecting C compiler ABI info
+[1.592s] -- Detecting C compiler ABI info - done
+[1.607s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.607s] -- Detecting C compile features
+[1.608s] -- Detecting C compile features - done
+[1.615s] -- Detecting CXX compiler ABI info
+[1.823s] -- Detecting CXX compiler ABI info - done
+[1.836s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.836s] -- Detecting CXX compile features
+[1.837s] -- Detecting CXX compile features - done
+[1.845s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.007s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.134s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.245s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.251s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.253s] -- Added test 'lint_cmake' to check CMake code style
+[3.256s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.258s] -- Added test 'xmllint' to check XML markup files
+[3.262s] -- Configuring done
+[3.267s] -- Generating done
+[3.271s] -- Build files have been written to: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot
+[3.278s] Invoked command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2:/home/josue/ros2_ws/install/test_python_pkg:/home/josue/ros2_ws/install/mqtt_ros2_bridge:/home/josue/ros2_ws/install/line_follower_pkg:/home/josue/ros2_ws/install/agv_teleop:/home/josue/ros2_ws/install/agv_description:/opt/ros/humble /usr/bin/cmake /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/src/basic_mobile_robot -DCMAKE_INSTALL_PREFIX=/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot
+[3.282s] Invoking command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2:/home/josue/ros2_ws/install/test_python_pkg:/home/josue/ros2_ws/install/mqtt_ros2_bridge:/home/josue/ros2_ws/install/line_follower_pkg:/home/josue/ros2_ws/install/agv_teleop:/home/josue/ros2_ws/install/agv_description:/opt/ros/humble /usr/bin/cmake --build /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot -- -j3 -l3
+[3.334s] Invoked command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2:/home/josue/ros2_ws/install/test_python_pkg:/home/josue/ros2_ws/install/mqtt_ros2_bridge:/home/josue/ros2_ws/install/line_follower_pkg:/home/josue/ros2_ws/install/agv_teleop:/home/josue/ros2_ws/install/agv_description:/opt/ros/humble /usr/bin/cmake --build /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot -- -j3 -l3
+[3.342s] Invoking command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2:/home/josue/ros2_ws/install/test_python_pkg:/home/josue/ros2_ws/install/mqtt_ros2_bridge:/home/josue/ros2_ws/install/line_follower_pkg:/home/josue/ros2_ws/install/agv_teleop:/home/josue/ros2_ws/install/agv_description:/opt/ros/humble /usr/bin/cmake --install /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot
+[3.352s] -- Install configuration: ""
+[3.352s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch
+[3.352s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch/basic_mobile_bot_v2.launch.py
+[3.352s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch/basic_mobile_bot_v1.launch.py
+[3.353s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models
+[3.353s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/model.urdf.xacro
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/wheel.stl
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/elbow.stl
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/wrist.stl
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/bicep.stl
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/arm_base.stl
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes/robot_base.stl
+[3.354s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/model.config
+[3.355s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/model.sdf
+[3.355s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/rviz
+[3.355s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/rviz/urdf_config.rviz
+[3.355s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds
+[3.355s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds/basic_mobile_bot_world
+[3.355s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds/basic_mobile_bot_world/smalltown.world
+[3.355s] -- Up-to-date: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot
+[3.355s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description
+[3.356s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/model.urdf.xacro
+[3.356s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/meshes
+[3.356s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/meshes/wheel.stl
+[3.356s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/meshes/elbow.stl
+[3.356s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/meshes/wrist.stl
+[3.358s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/meshes/bicep.stl
+[3.358s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/meshes/arm_base.stl
+[3.358s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/meshes/robot_base.stl
+[3.358s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/model.config
+[3.358s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_description/model.sdf
+[3.358s] -- Up-to-date: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot
+[3.359s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/basic_mobile_bot_controllers.yaml
+[3.359s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.xml
+[3.359s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/ament_index/resource_index/package_run_dependencies/basic_mobile_robot
+[3.359s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/ament_index/resource_index/parent_prefix_path/basic_mobile_robot
+[3.359s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.sh
+[3.360s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.dsv
+[3.360s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.sh
+[3.360s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.dsv
+[3.361s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.bash
+[3.361s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.sh
+[3.361s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.zsh
+[3.361s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.dsv
+[3.361s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.dsv
+[3.361s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/ament_index/resource_index/packages/basic_mobile_robot
+[3.361s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig.cmake
+[3.361s] -- Installing: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig-version.cmake
+[3.361s] -- Up-to-date: /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.xml
+[3.364s] Invoked command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2:/home/josue/ros2_ws/install/test_python_pkg:/home/josue/ros2_ws/install/mqtt_ros2_bridge:/home/josue/ros2_ws/install/line_follower_pkg:/home/josue/ros2_ws/install/agv_teleop:/home/josue/ros2_ws/install/agv_description:/opt/ros/humble /usr/bin/cmake --install /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot
