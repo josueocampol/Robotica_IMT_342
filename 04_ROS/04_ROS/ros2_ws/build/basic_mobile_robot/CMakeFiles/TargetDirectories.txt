@@ -1,0 +1,9 @@
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/uninstall.dir
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/basic_mobile_robot_uninstall.dir
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/test.dir
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/edit_cache.dir
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/rebuild_cache.dir
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/list_install_components.dir
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/install.dir
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/install/local.dir
+/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/basic_mobile_robot/CMakeFiles/install/strip.dir

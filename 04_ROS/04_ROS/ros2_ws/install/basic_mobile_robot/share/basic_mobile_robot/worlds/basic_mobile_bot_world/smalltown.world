@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <world name="smalltown">
+    <!-- Ground Plane -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- Sun -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <!-- Spawn Mobile Robot -->
+    <include>
+      <name>basic_mobile_bot</name>
+      <pose>0.0 0.0 0.1 0 0 0</pose>
+      <uri>model://basic_mobile_bot_description</uri>
+    </include>
+  </world>
+</sdf>

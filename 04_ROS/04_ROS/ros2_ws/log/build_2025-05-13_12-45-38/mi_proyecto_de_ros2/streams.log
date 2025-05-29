@@ -1,0 +1,25 @@
+[0.466s] Invoking command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/src/mi_proyecto_de_ros2': PYTHONPATH=/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_proyecto_de_ros2 build --build-base /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build install --record /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/install.log --single-version-externally-managed install_data
+[0.638s] running egg_info
+[0.639s] writing ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/PKG-INFO
+[0.639s] writing dependency_links to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/dependency_links.txt
+[0.639s] writing entry points to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/entry_points.txt
+[0.640s] writing requirements to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/requires.txt
+[0.640s] writing top-level names to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/top_level.txt
+[0.642s] reading manifest file '../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/SOURCES.txt'
+[0.643s] writing manifest file '../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/SOURCES.txt'
+[0.643s] running build
+[0.643s] running build_py
+[0.644s] copying mi_proyecto_de_ros2/mi_nodo_teleop.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2
+[0.644s] running install
+[0.644s] running install_lib
+[0.645s] copying /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2/mi_nodo_teleop.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2
+[0.646s] byte-compiling /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2/mi_nodo_teleop.py to mi_nodo_teleop.cpython-310.pyc
+[0.646s] running install_data
+[0.647s] running install_egg_info
+[0.649s] removing '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.651s] Copying ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info to /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2-0.0.0-py3.10.egg-info
+[0.652s] running install_scripts
+[0.673s] Installing mi_nodo_teleop script to /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/mi_proyecto_de_ros2
+[0.673s] Installing mi_primer_nodo script to /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/mi_proyecto_de_ros2
+[0.673s] writing list of installed files to '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/install.log'
+[0.697s] Invoked command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/src/mi_proyecto_de_ros2' returned '0': PYTHONPATH=/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_proyecto_de_ros2 build --build-base /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build install --record /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/install.log --single-version-externally-managed install_data

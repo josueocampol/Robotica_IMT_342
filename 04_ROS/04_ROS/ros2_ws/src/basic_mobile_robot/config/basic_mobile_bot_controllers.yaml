@@ -1,0 +1,32 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 100 # Hz
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+    diff_drive_controller:
+      type: diff_drive_controller/DiffDriveController
+
+diff_drive_controller:
+  ros__parameters:
+    publish_rate: 50.0
+    pose_covariance_diagonal: [0.005, 0.005, 0.005, 0.005, 0.005, 0.01]
+    twist_covariance_diagonal: [0.001, 0.001, 0.001, 0.001, 0.001, 0.002]
+
+    # Wheel names (ESTOS DEBEN COINCIDIR CON LOS NOMBRES DE LAS ARTICULACIONES EN EL URDF)
+    left_wheel_names: ['left_wheel_joint'] 
+    right_wheel_names: ['right_wheel_joint']
+
+    # Wheel separation and radius (ESTOS DEBEN COINCIDIR CON LOS VALORES DEL URDF)
+    wheel_separation: 0.40 # 2 * 0.20m (wheel_y_offset)
+    wheel_radius: 0.06     # 0.06m (wheel_radius property)
+
+    # Limits
+    wheel_separation_multiplier: 1.0
+    wheel_radius_multiplier: 1.0
+
+    linear_velocity_limits:
+      x: {has_velocity_limits: true, min_velocity: -0.5, max_velocity: 0.5}
+    angular_velocity_limits:
+      z: {has_velocity_limits: true, min_velocity: -1.0, max_velocity: 1.0}

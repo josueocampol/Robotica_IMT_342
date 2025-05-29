@@ -1,0 +1,37 @@
+[2.636s] Invoking command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/src/mi_proyecto_de_ros2': PYTHONPATH=/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_proyecto_de_ros2 build --build-base /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build install --record /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/install.log --single-version-externally-managed install_data
+[2.868s] running egg_info
+[2.868s] creating ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info
+[2.869s] writing ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/PKG-INFO
+[2.869s] writing dependency_links to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/dependency_links.txt
+[2.869s] writing entry points to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/entry_points.txt
+[2.869s] writing requirements to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/requires.txt
+[2.869s] writing top-level names to ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/top_level.txt
+[2.870s] writing manifest file '../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/SOURCES.txt'
+[2.871s] reading manifest file '../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/SOURCES.txt'
+[2.872s] writing manifest file '../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info/SOURCES.txt'
+[2.872s] running build
+[2.873s] running build_py
+[2.873s] creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build
+[2.873s] creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib
+[2.873s] creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2
+[2.873s] copying mi_proyecto_de_ros2/mi_primer_nodo.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2
+[2.873s] copying mi_proyecto_de_ros2/__init__.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2
+[2.873s] running install
+[2.873s] running install_lib
+[2.874s] creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2
+[2.874s] copying /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2/mi_primer_nodo.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2
+[2.874s] copying /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build/lib/mi_proyecto_de_ros2/__init__.py -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2
+[2.874s] byte-compiling /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2/mi_primer_nodo.py to mi_primer_nodo.cpython-310.pyc
+[2.875s] byte-compiling /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2/__init__.py to __init__.cpython-310.pyc
+[2.875s] running install_data
+[2.875s] creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/ament_index
+[2.875s] creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/ament_index/resource_index
+[2.875s] creating /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/ament_index/resource_index/packages
+[2.875s] copying resource/mi_proyecto_de_ros2 -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/ament_index/resource_index/packages
+[2.876s] copying package.xml -> /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/share/mi_proyecto_de_ros2
+[2.876s] running install_egg_info
+[2.878s] Copying ../../build/mi_proyecto_de_ros2/mi_proyecto_de_ros2.egg-info to /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages/mi_proyecto_de_ros2-0.0.0-py3.10.egg-info
+[2.878s] running install_scripts
+[2.899s] Installing mi_primer_nodo script to /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/mi_proyecto_de_ros2
+[2.900s] writing list of installed files to '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/install.log'
+[2.921s] Invoked command in '/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/src/mi_proyecto_de_ros2' returned '0': PYTHONPATH=/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josue/Documentos/JOSUE/04_ROS/ros2_ws/install/mi_proyecto_de_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mi_proyecto_de_ros2 build --build-base /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/build install --record /home/josue/Documentos/JOSUE/04_ROS/ros2_ws/build/mi_proyecto_de_ros2/install.log --single-version-externally-managed install_data
